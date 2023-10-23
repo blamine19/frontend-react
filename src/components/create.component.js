@@ -6,6 +6,9 @@ import { useNavigate } from "react-router-dom"
 export default function CreateProduct() {
 
 
+
+    /********* */
+    
     const navigate = useNavigate();
 
     const [title, setTitle] = useState('')

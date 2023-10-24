@@ -6,6 +6,7 @@ import { useNavigate } from "react-router-dom"
 export default function CreateProduct() {
 
     /********* amine belh */
+    /*** safo **/
     
     const navigate = useNavigate();
 

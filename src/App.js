@@ -32,7 +32,6 @@ function App() {
         <Route path="/" element={<ProductList />}></Route>
         <Route path="/product/create" element={<CreateProduct />}></Route>
         <Route path="/product/edit/:id" element={<EditProduct />}></Route>
-
       </Routes>
 
     </Router>

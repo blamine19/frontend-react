@@ -100,7 +100,7 @@ export default function CreateProduct() {
 
                                     <div className="mb-3">
                                         <label className="form-label">Image</label>
-                                        <input name="image" type="file" accept="image/*" className="form-control" onChange={changeHandler} />
+                                        <input name="image"  type="file" accept="image/*" className="form-control" onChange={changeHandler} />
                                     </div>
 
                                     <div className="mb-3">
